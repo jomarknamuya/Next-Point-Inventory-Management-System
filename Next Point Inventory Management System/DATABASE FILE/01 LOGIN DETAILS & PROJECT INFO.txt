@@ -1,0 +1,21 @@
+**Database Name: Next Point Inventory Management System**
+
+**Developed by John Mark Namuya**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: xps@uzi
+Password: 0776175123
+
+**Special User Login Details**
+
+Username: special
+Password: special
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user 
